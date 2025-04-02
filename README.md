@@ -6,3 +6,5 @@ I'm a passionate **Software Engineer** and **AI Enthusiast**.
 
 ### 💬 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/pedroalexandreaugustavicius/).
+
+![Atary137](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=00ff00)
